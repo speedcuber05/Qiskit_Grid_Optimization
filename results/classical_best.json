@@ -1,0 +1,33 @@
+{
+  "generator_order": [
+    "221_CC_1",
+    "202_STEAM_3",
+    "101_STEAM_4",
+    "315_CT_6",
+    "213_CT_1",
+    "101_CT_1"
+  ],
+  "period": 11,
+  "demand_mw": 318.60806,
+  "reserve_mw": 9.55824,
+  "best_solution": {
+    "bitstring": "011001",
+    "num_on": 3,
+    "total_cost": 4278.459538669275,
+    "startup_cost": 51.75,
+    "production_cost": 4226.709538669275,
+    "thermal_mw": 149.90805999999998,
+    "renewable_used_mw": 168.70000000000002,
+    "renewable_curtailed_mw": 0.0,
+    "reserve_headroom_mw": 22.091940000000022,
+    "thermal_dispatch": {
+      "202_STEAM_3": 65.90805999999999,
+      "101_STEAM_4": 76.0,
+      "101_CT_1": 8.0
+    },
+    "renewable_dispatch": {
+      "309_WIND_1": 148.3,
+      "101_PV_3": 20.4
+    }
+  }
+}

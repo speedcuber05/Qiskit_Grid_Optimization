@@ -1,0 +1,3 @@
+method,depth,qubits,optimization_seconds,function_evaluations,probability_exact_qubo_optimum,probability_physical_optimum,sampled_exact_qubo_optimum_pct,physically_feasible_pct,physical_optimum_sampled_pct,best_sampled_physical_cost,most_probable_bitstring,circuit_depth,rzz_count
+Standard QAOA,1,12,0.7798546999983955,148,0.008032350302917653,0.01319475064196256,0.927734375,9.6923828125,1.07421875,40103.15617720851,111111011011,15,26
+CVaR-QAOA,1,12,1.0192444999993313,175,0.008530928160578023,0.02213248074995294,0.8056640625,13.0126953125,2.44140625,40103.15617720851,111011011011,15,26

@@ -1,0 +1,22 @@
+{
+  "selected_generators": [
+    "202_STEAM_3",
+    "101_STEAM_4",
+    "115_STEAM_3",
+    "315_CT_7"
+  ],
+  "periods": [
+    16,
+    17,
+    18
+  ],
+  "qubits": 12,
+  "qubo_optimum_bitstring": "111011111001",
+  "qubo_optimum_energy": -6728.97986201831,
+  "physical_optimum_bitstring": "111011011011",
+  "physical_optimum_cost": 40103.15617720851,
+  "feasible_schedules": 10,
+  "total_schedules": 4096,
+  "conditioning": "16 nonselected thermal generators frozen to 24-period MILP dispatch",
+  "limitations": "QUBO is a surrogate, omits physical dispatch/ramp/min-up/min-down. Physical check uses exact LP with frozen thermal background; no quantum advantage claim."
+}

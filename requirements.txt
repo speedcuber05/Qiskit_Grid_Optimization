@@ -1,0 +1,8 @@
+qiskit
+qiskit-aer
+qiskit-optimization
+numpy
+pandas
+scipy
+matplotlib
+ipykernel

@@ -1,0 +1,12 @@
+{
+  "status_code": 0,
+  "status": "Optimization terminated successfully. (HiGHS Status 7: Optimal)",
+  "objective": 166249.3614072272,
+  "runtime_seconds": 4.0479285000037635,
+  "mip_gap": 0.000605825631566379,
+  "time_periods": 24,
+  "thermal_count": 20,
+  "renewable_count": 7,
+  "total_curtailed_mwh_if_1hour_periods": 795.7059187716694,
+  "startup_cost_model": "cheapest listed startup tier for every event"
+}
